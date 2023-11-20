@@ -5,8 +5,6 @@ I'm a Software Developer with a passion for coding.
 Voltaire:
 - "Common sense is not so common."
 
-Steve Jobs:
-- "Stay hungry, stay foolish."
 
 ## About Me
 
