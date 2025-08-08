@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gandalf2004!
 
-I come from Germany and, i'm into system and Embedded SW development. And apparently also into Emulator development now, that's new.
+Hello i'm Martin H. Sharp also known under Gandalf. I come from Germany and, i'm into system and Embedded SW development and apparently also into Emulator development now, that's new.
 
 ## About Me
 
@@ -14,7 +14,7 @@ I enjoy Low-level programming,
 From low-level systems programming to web development.
 I'm always eager to learn and grow in the world of technology.
 
-## Potentially interesting projects:
+# Potentially interesting projects:
 
 ## Projects that i'm currently working on:
 
@@ -23,11 +23,6 @@ I'm always eager to learn and grow in the world of technology.
 ## Actually finished and usable:
 
   - none
-
-
-## Get in Touch
-
-- 📧 Email me at [martin.sharp2004@gmail.com](mailto:martin.sharp2004@gmail.com).
 
 ## My GitHub Stats
 
