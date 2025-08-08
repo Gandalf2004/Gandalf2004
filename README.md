@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gandalf2004!
 
-I come from Germany and am into system and Embedded SW development. And apparently also into Emulator development now, that's new.
+I come from Germany and, i'm into system and Embedded SW development. And apparently also into Emulator development now, that's new.
 
 ## About Me
 
