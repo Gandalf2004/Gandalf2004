@@ -14,13 +14,13 @@ I enjoy Low-level programming,
 From low-level systems programming to web development.
 I'm always eager to learn and grow in the world of technology.
 
-# Potentially interesting projects:
+## Potentially interesting projects:
 
-## Projects that i'm currently working on:
+### Projects that i'm currently working on:
 
   - my [1972 CPU Project](https://github.com/Gandalf2004/Custom-1972-CPU/)
 
-## Actually finished and usable:
+### Actually finished and usable:
 
   - none
 
