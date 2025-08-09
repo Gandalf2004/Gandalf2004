@@ -4,10 +4,11 @@ Hello i'm Martin H. Sharp also known under Gandalf. I come from Germany and, i'm
 
 ## About Me
 
-- 💼 I've been working as a Software Developer since 2021.
+- 💼 I've been a Software Developer since 2021.
 - 🌐 I code in JavaScript since November 2021.
-- 💻 I code in C/C++ since September 2022.
+- 💻 I code in C since July 2022.
 - 💻 I code in Java since November 2022.
+- 💻 I code in C++ since November 2023.
 
 ## What I Do
 I enjoy Low-level programming,
