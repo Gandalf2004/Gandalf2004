@@ -20,6 +20,7 @@ I'm always eager to learn and grow in the world of technology.
 ### Projects that i'm currently working on:
 
   - my [1972 CPU Project](https://github.com/Gandalf2004/Custom-1972-CPU/)
+      - my [Syntax Highlighter](https://github.com/Gandalf2004/Syntax-highlighter-for-EC72ASM) for the CPUs assembly in VS Code or Code - OSS
 
 ### Actually finished and usable:
 
