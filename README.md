@@ -30,7 +30,7 @@ I'm always eager to learn and grow in the world of technology.
 
 ## My GitHub Stats
 
-[![Gandalf2004's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gandalf2004&show_icons=true&count_private=true&theme=dark)](https://github.com/Gandalf2004)
+![Gandalf2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gandalf2004&theme=vue-dark&hide_border=true)
 
 <!---
 Gandalf2004/Gandalf2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
