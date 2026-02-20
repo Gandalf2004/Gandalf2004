@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gandalf2004!
 
-Hello i'm Martin H. Sharp also known under Gandalf. I come from Germany and, i'm into system and Embedded SW development and apparently also into Emulator development now, that's new.
+Hello i'm Martin also known under Gandalf. I come from Germany and, i'm into system and Embedded SW development and apparently also into Emulator development now, that's new.
 
 ## About Me
 
